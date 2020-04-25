@@ -12,6 +12,15 @@
     
     
     <item>
+      <title>Aplikasi Manajemen Berkas</title>
+      <link>https://lembahkode.github.io/portfolio/aplikasi-manajemen-berkas/</link>
+      <pubDate>Sat, 25 Apr 2020 11:08:48 +0700</pubDate>
+      
+      <guid>https://lembahkode.github.io/portfolio/aplikasi-manajemen-berkas/</guid>
+      <description>Aplikasi Manajemen Berkas, berbasis web yang bisa digunakan untuk melakukan penyimpanan dan pencarian berkas dengan cepat untuk bisa diakses oleh semua user secara intranet atau internet. Kemudahan akses dan manajmennya membuat aplikasi ini perlu anda coba untuk memudahkan dakam pengarsipan berkas. Fitur unggulan lainya adalah aplikasi ini menggunakan ajax yang membuatnya lebih cepat saat me reload halaman dengan dukungan multi user yang membuatnya lebih aman dari user yang tidak bekepentingan.</description>
+    </item>
+    
+    <item>
       <title>Name of the work 2</title>
       <link>https://lembahkode.github.io/portfolio/work2/</link>
       <pubDate>Sat, 05 Nov 2016 19:41:01 +0530</pubDate>
@@ -99,19 +108,6 @@
       
       <guid>https://lembahkode.github.io/portfolio/work11/</guid>
       <description>&lt;p&gt;Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country, in which roasted parts of sentences fly into your mouth.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Aplikasi Manajemen Berkas</title>
-      <link>https://lembahkode.github.io/portfolio/aplikasi-manajemen-berkas/</link>
-      <pubDate>Sat, 25 Apr 2020 11:08:48 +0700</pubDate>
-      
-      <guid>https://lembahkode.github.io/portfolio/aplikasi-manajemen-berkas/</guid>
-      <description>Deskripsi Programer haryanto.duwi
-Email haryanto.duwi@gmail.com
-Aplikasi Pendataan Warga
-
-UPDATE  view dashboard  Menu  Dashboard Registrasi  Detail Registrasi   Setting  User Level Akses Backup Database Setting Sistem   Log Logout  Fitur  Login Log Menu Dinamis Manajemen User Manajemen Akses Validasi Input Backup Database CSRF XSS Filtering QRCode setting sistem  Kebutuhan Sistem  Php Versi 7.0 Keatas Database Mysql Template Eliteadmin Framework Codeigniter 3.</description>
     </item>
     
     <item>
